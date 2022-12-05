@@ -1,5 +1,3 @@
-~
-"banking.txt" 7L, 263B               6,2           All
 #American Express domains
 
 ||americanexpress.com.ssl.d2.sc.omtrdc.net
