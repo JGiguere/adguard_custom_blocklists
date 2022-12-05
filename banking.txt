@@ -1,0 +1,37 @@
+~
+"banking.txt" 7L, 263B               6,2           All
+#American Express domains
+
+||americanexpress.com.ssl.d2.sc.omtrdc.net
+||www.aexp-static.com.edgekey.net
+||omns.americanexpress.com
+|iwmapapi.americanexpress.com.akadns.net
+|https://americanexpress.com.ssl.d2.sc.omtrdc.net
+||www.aexp-static.com
+||mobileone.americanexpress.com.akadns.net
+||one.americanexpress.com.akadns.net
+||one-functions-staging.americanexpress.com.akadns.net
+||bdaas-payments.americanexpress.com.akadns.net
+||americanexpress.com^
+||global1.americanexpress.com.akadns.net
+||bdaas.americanexpress.com.akadns.net
+||aug.americanexpress.com.akadns.net
+
+#Chase Domains
+
+||gtm.analytics.chase.com.akadns.net
+||static.chasecdn.com
+||secure04ea.chase.com
+||mfasa-chase.gslb.bankone.com
+||sites.chase.com
+||sites.amer-c2.gslbjpmchase.com
+
+
+#Berkshire Bank Domains
+
+||mb1.mbanking-services.mobi
+||*.d.aa.online-metrix.net
+||e17437.dsct.akamaiedge.net
+||collector-axa.cloud.ca.com
+||e6987.dsce9.akamaiedge.net
+||h-sdk.online-metrix.net
